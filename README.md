@@ -73,7 +73,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 # Recommendations 
 
-- We should heaviy target the age group from 19 - 45 as they are the major market in consuming drinks
+- We should heavily target the age group from 19 - 45 as they are the major market in consuming drinks
 - Should  focus on cities with lesser brands. Lesser competition will help to estabish the brand in the market comparatively better
 - Should focus on drinks especially catering to the health of females and non binary group. This will help increase the customer base
 - Drinks should be maufactued with either caffeine or vitamins as they are the most preferred ingredients in drinks by the people
