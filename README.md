@@ -11,3 +11,8 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ![Demography](https://github.com/user-attachments/assets/a0c99cd2-afa9-40e9-913f-db4f851ec507)
 
 ## Insights 
+
+- The top 5 cities with maximum number of brands are Bangalore, Hyderabad, Mumbai, Chennai, Pune
+- The bottom 5 cities lesser number of brands are Kolkata, Ahmedabad, Delhi, Jaipur, Lucknow
+- People of within the age bracket of 19-30 prefer opting for brands followed by the age bracker (31-45)
+- Gender wise males prefer opting for branded valuables rather than females
