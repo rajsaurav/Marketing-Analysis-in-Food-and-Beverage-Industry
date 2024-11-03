@@ -4,6 +4,13 @@ AtliQ CodeX is a German beverage company that is aiming to make its mark in the 
 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. A marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
+# Objective of the Project
+
+- To help the German beverage company to establish itself in the Indian Market through various Makreting Strategies
+- To acquire insights regarding demography, consumer, market trends and product to understand the situation of Food and Beverage Indusry in India
+- To create clear and compelling visualizations that highlight the most important insights for the Chief Marketing Officer at AtliQ CodeX 
+- To provide ideas and advice that will help the organization establish a growth strategy that will be successful.
+
 # Report
 
 ## Main Dashboard Page
