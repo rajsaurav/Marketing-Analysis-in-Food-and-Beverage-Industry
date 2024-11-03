@@ -34,9 +34,9 @@ Their Marketing team is responsible for increasing brand awareness, market share
 - 60% of people are concerned about having drinks and its affect on their health
 - 50% of people are interested in an organic or natural drink
 - 20% of people are not sure whether they should opt for these drinks
-- Two major reasons for people not trying a drink is
-        It is not locally available
-        Health concerns
+- Two major reasons for people not trying a drink are
+        - The drink not locally available
+        - Health concerns
 
 
 ## Market Trends
@@ -65,4 +65,17 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 
 # Recommendations 
+
+- We should heaviy target the age group from 19 - 45 as they are the major market in consuming drinks
+- Should  focus on cities with lesser brands. Lesser competition will help to estabish the brand in the market comparatively better
+- Should focus on drinks especially catering to the health of females and non binary group. This will help increase the customer base
+- Drinks should be maufactued with either caffeine or vitamins as they are the most preferred ingredients in drinks by the people
+- Should also work on creating more organic drinks as 50% of the people want organic drinks. This will also help bring in 20% of the people who are in the not sure category
+- Making drink organic and making it available in any shop will drasticaly help in creating brand reputation and tackle two major causes for people not opting to drink
+- To make it avaialble easily the drinks should be present in all supermarkets which is the most preferred location by the consumers to buy a drink
+- Need to create marketing campaigns around sports/ studying in our online ads and TV commercials as they people tend to drink more in these situations
+- The price range of the product should be in the range of 50 - 99 which sees the maximum sales
+- The packaging of the can should be compact and portable making it easy for people to take it anywhere.
+
+
 
