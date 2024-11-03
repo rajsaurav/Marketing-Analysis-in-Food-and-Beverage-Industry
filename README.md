@@ -35,8 +35,8 @@ Their Marketing team is responsible for increasing brand awareness, market share
 - 50% of people are interested in an organic or natural drink
 - 20% of people are not sure whether they should opt for these drinks
 - Two major reasons for people not trying a drink are
-        - The drink not locally available
-        - Health concerns
+        -- The drink not locally available
+        -- Health concerns
 
 
 ## Market Trends
