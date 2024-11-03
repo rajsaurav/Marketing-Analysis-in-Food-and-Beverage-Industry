@@ -9,3 +9,5 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ## Main Dashboard Page
 
 ![Demography](https://github.com/user-attachments/assets/a0c99cd2-afa9-40e9-913f-db4f851ec507)
+
+## Insights 
